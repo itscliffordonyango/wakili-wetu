@@ -81,4 +81,4 @@ This mode is ideal for offline demos and pitching while external LLM access (Ope
 - `backend/services/local_legal_engine.py` — offline TF‑IDF search + answer generator.
 - `static/wakili_wetu.html` — front-end demo UI.
 
-If you'd like, I can also add a short `docker-compose` or a tiny FastAPI inference shim for running a hosted model endpoint. Want that next?
+
