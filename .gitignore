@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (Excludes ALL .env files anywhere in the project)
+.env
+.env.*
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
